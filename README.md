@@ -138,6 +138,8 @@ THOUGH ONCE U ALLOWED NYAUAMOU SKIN MTOWWEAEDOTHPAWTS IT A BROKEN MELEE YOU ALFI
 
 THE SITE WHERE THE MOON GOD WENT AND HINT THE KINGS IS A CODE NAME
 ```
+(TO DO: try to re-arrange letters in the message to get sentences or at least make all words sane)
+
 
 ## Mermaids
 
@@ -168,7 +170,7 @@ Another assumption is that originial question could be important: "Is king Alexa
 
 There are 11 constellations on the upper part of the image - most have a digit in the main star, except the lowest that has "B" letter
 
-<TO DO: get the names of each constellation>
+(TO DO: get the names of each constellation)
 
 ## Kanye Quest 3030 reference
 ![Kanye Quest 3030 reference](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/880ab26816c9d84b25ae56b25ac81b5a240844ee/pics/nft_reduced_KannyQuest3030.jpg)
@@ -196,7 +198,7 @@ consent to participation, please select the YES option above. Do you wish to par
 
 There are green characters (letters and numbers) on the bitcoin logo.
 
-<TO DO: get each letter in order: from top to bottom, from left to rigth >
+(TO DO: get each letter in order: from top to bottom, from left to rigth )
 
 ## Moon River lyrics
 ![Moon River lyrics at the bottom left](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/dd91f613bc76d03dad09f876213bf7aed5fd4431/pics/nft_reduced_MoonRiver.jpg)
@@ -236,8 +238,7 @@ Moon river and me
  Another interesting thing is strange noise between the icebergs - there is a 6-pixel strip between the icebergs (yellow circle) that looks
  different from its surrounding: a strange noice like in least-bit steganography.
     
- <TO DO: check that area for stego AND retrive the third iceberg string>
-  .   
+ (TO DO: check that area for stego AND retrive the third iceberg string)
 
 
 ## P.S.
