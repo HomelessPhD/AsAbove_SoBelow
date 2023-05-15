@@ -162,13 +162,13 @@ could be part of the private key, or this phrase talking about bitcoin?!
 Another assumption is that originial question could be important: "Is king Alexander alive?".
 "Alexander" could be a key for some else puzzle step.
 
-# Stars
+## Stars
 
 There are 11 constellations on the upper part of the image - most have a digit in the main star, except the lowest that has "B" letter
 
 ![stars](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/5a3a4dfce6264f839353f16c4dfe429b02df9aa6/pics/nft_reduced_stars.jpg)
 
-# Kanye Quest 3030 reference
+## Kanye Quest 3030 reference
 ![Kanye Quest 3030 reference](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/880ab26816c9d84b25ae56b25ac81b5a240844ee/pics/nft_reduced_KannyQuest3030.jpg)
 
 The text faded by clouds is the reference to "Kanye Quest 3030" video game [[6]](https://en.wikipedia.org/wiki/Kanye_Quest_3030), [[6']](https://twinfinite.net/pc/this-insane-kanye-quest-3030-conspiracy-theory-is-actually-real/):
@@ -188,6 +188,12 @@ directly. If we do this, we will attempt to notify you of our prescence using a 
 consent to participation, please select the YES option above. Do you wish to participate?
 ....
 ```
+
+##  Green chars
+![Kanye Quest 3030 reference](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/0e6f4967fa4b4a06ed6a6447d820e59c1e9a9ba2/pics/nft_reduced_greenChars.jpg)
+
+There are green characters (letters and numbers) on the bitcoin logo.
+
 
 ## P.S.
 
