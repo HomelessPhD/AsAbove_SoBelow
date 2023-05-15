@@ -175,11 +175,17 @@ The text faded by clouds is the reference to "Kanye Quest 3030" video game [[6]]
 
 ```
 ....
-You have proven your worth once again. You have ascended. However, further ascension is always possible. If you do not wish to ascend further, your journey ends here, so please close this program by pressing ALT-F4 or selecting the NO option above. By selecting the YES option, you agree to participate further and you grant us permission to interact with your possessions. Would you like to participate?
+You have proven your worth once again. You have ascended. However, further ascension is always possible.
+If you do not wish to ascend further, your journey ends here, so please close this program by pressing 
+ALT-F4 or selecting the NO option above. By selecting the YES option, you agree to participate further 
+and you grant us permission to interact with your possessions. Would you like to participate?
 
-If you choose NO, you get sent to the title screen. If you choose YES, it shows this:
+    If you choose NO, you get sent to the title screen. If you choose YES, it shows this:
 
-Over the following two week time period, we will interact with you and your possessions in several ways. Keep an eye out, as some of these ways may be subtle. Others may not be. We may attempt to contact you directly. If we do this, we will attempt to notify you of our prescence using a key-word. If you still consent to participation, please select the YES option above. Do you wish to participate?
+Over the following two week time period, we will interact with you and your possessions in several ways. 
+Keep an eye out, as some of these ways may be subtle. Others may not be. We may attempt to contact you 
+directly. If we do this, we will attempt to notify you of our prescence using a key-word. If you still 
+consent to participation, please select the YES option above. Do you wish to participate?
 ....
 ```
 
