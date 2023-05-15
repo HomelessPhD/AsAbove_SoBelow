@@ -124,6 +124,18 @@ ANN HINT THE KITGSISACONE NAME
 
 Some letters in this message could be messed - require to swap them like the word "ADOUT" could require to swap the letter "D" to "B" to form the word "ABOUT", and this "B" could be found in "MOTTHSATD1B4K" or "YTHOUGHOTCEUOLLOWEDDYAUAMOUSKINMNOWWEAEBOTHPAWTSINAUROGENMELEEYOURLFITD" words (or strings). Thats just an assumption
 
+```
+THE MOON GOD WENT TO MEET THE SUN GOD 
+IN THE MOON MOTS DOMAIN
+YOU SEE THE CROSES T 
+THE 1 GAME WAS ABOUT 2 MOTTHSATDOB4K MAP ART AND THE PAIMEOE ART IG
+IS SUM IS ME 
+Y THOUGH OTCE UOLLOWED DYAUAMOU SKIN MNOWWEAEDOTHPAWTSITAUROGENMELEE YOU ALFITD
+THE SITE WHERE
+THE MOON GOD WENT 
+AND HINT THE KINGS IS A CONE NAME
+```
+
 ## P.S.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
