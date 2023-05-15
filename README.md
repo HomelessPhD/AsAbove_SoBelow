@@ -141,7 +141,7 @@ THE SITE WHERE THE MOON GOD WENT AND HINT THE KINGS IS A CODE NAME
 
 There are 5 mermaids on the image with the same text coming from them: "it lives and reigns and conquers the world"
 
-According to ["The legend of Thessalonike"](https://en.wikipedia.org/wiki/Thessalonike_of_Macedon):
+According to "The legend of Thessalonike" [[5]](https://en.wikipedia.org/wiki/Thessalonike_of_Macedon):
 
 ```...
 To the sailors who encounter her, she always poses the same question: "Is king Alexander alive?" 
@@ -182,6 +182,7 @@ Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com -
 
 [4] Puzzle image (too big to be uploaded to github) - https://ipfs.io/ipfs/QmUVA5tq1qrUyQc6mLXUfcL5euw4tm3CXrVky2Jj4AJmbu/nft.png
 
+[5] The legend of Thessalonike - https://en.wikipedia.org/wiki/Thessalonike_of_Macedon
 
 
 
