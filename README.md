@@ -139,6 +139,7 @@ THE SITE WHERE THE MOON GOD WENT AND HINT THE KINGS IS A CODE NAME
 There are 5 mermaids on the image with the same text coming from them: "it lives and reigns and conquers the world"
 
 According to ["The legend of Thessalonike"](https://en.wikipedia.org/wiki/Thessalonike_of_Macedon):
+
 ```...
 To the sailors who encounter her, she always poses the same question: "Is king Alexander alive?" 
 (Greek: Ζει ο βασιλιάς Αλέξανδρος;), to which the correct answer would be "He lives and reigns and 
@@ -150,6 +151,9 @@ bottom of the sea."
 
 Here we could assume that original "He" was changed to "It" to hint something. For example, the "it" or "he"
 could be part of the private key, or this phrase talking about bitcoin?!
+
+Another assumption is that originial question could be important: "Is king Alexander alive?".
+"Alexander" could be a key for some else puzzle step.
 
 ## P.S.
 
