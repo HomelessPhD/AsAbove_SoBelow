@@ -95,6 +95,18 @@ Instead, treating it as binary code i have found that there is simple messge rep
 
 **The popular meme - "This is fine" OR meaning that it is actually important key - "fin 2".**
 
+## Pixels stream on the right corner of the image - on width(x) = 5326 and height(y) from 375 to the (end-375): Morse code.
+
+Inspectin the picture more in order to find new binary stream or MORSE codes (to utilize the approach i used earlier) i have found strange pixels at x = 5326. Using the MATLAB code (MorseExtract2.m - that is attached in MATLAB folder) i have found out it likely to be the Morse code:
+
+```
+    Morse code:
+"- .... . -- --- --- -. --. --- -.. .-- . -. - - --- -- . . - - .... . ... ..- -. --. --- -.. .. - - .... . -- --- --- -. -- --- -.. ... -.. --- -- .- .. - -.-- --- ..- ... . . - .... . -.-. .-. --- ... . ... - - .... . --- --. .- -- . .-- .- ... .- -.. --- ..- - ..--- -- --- - - .... ... .- - -.. .---- -... ....- -.- -- .- .--. .- .-. - .- -. -.. - .... . .--. .- .. -- . --- . .- .-. -. .. --. .. ... ... ..- -- .. ... -- . -.-- - .... --- ..- --. .... --- - -.-. . ..- --- .-.. .-.. --- .-- . -.. -.. -.-- .- ..- .- -- --- ..- ... -.- .. -. -- -. --- .-- .-- . .- . -... --- - .... .--. .- .-- - ... .. -. .- ..- .-. --- --. . -. -- . .-.. . . -.-- --- ..- .-. .-.. ..-. .. - -.. - .... . ... .. - . .-- .... . .- . - .... . -- --- --- -. --. --- -.. .-- . -. - .- -. -. .... .. -. - - .... . -.- .. - --. ... .. ... .- -.-. --- -. . -. .- -- ."
+    
+    Translation:
+"THEMOONGODWENTTOMEETTHESUNGODITTHEMOONMODSDOMAITYOUSEETHECROSESTTHEOGAMEWASADOUT2MOTTHSATD1B4KMAPARTANDTHEPAIMEOEARNIGISSUMISMEYTHOUGHOTCEUOLLOWEDDYAUAMOUSKINMNOWWEAEBOTHPAWTSINAUROGENMELEEYOURLFITDTHESITEWHEAETHEMOONGODWENTANNHINTTHEKITGSISACONENAME"
+```
+
 ## P.S.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
