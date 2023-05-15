@@ -234,6 +234,9 @@ Moon river and me
  ```
  ALBERTI and FINNEY
  ```
+ 
+ ALBERTI could be a reference to ["Alberti cipher"](https://en.wikipedia.org/wiki/Alberti_cipher)
+ 
 
  Another interesting thing is strange noise between the icebergs - there is a 6-pixel strip between the icebergs (yellow circle) that looks
  different from its surrounding: a strange noice like in least-bit steganography.
