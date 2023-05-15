@@ -190,9 +190,36 @@ consent to participation, please select the YES option above. Do you wish to par
 ```
 
 ##  Green chars
-![Kanye Quest 3030 reference](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/0e6f4967fa4b4a06ed6a6447d820e59c1e9a9ba2/pics/nft_reduced_greenChars.jpg)
+![Green chars on Bitcoin logo](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/0e6f4967fa4b4a06ed6a6447d820e59c1e9a9ba2/pics/nft_reduced_greenChars.jpg)
 
 There are green characters (letters and numbers) on the bitcoin logo.
+
+## Moon River lyrics
+![Moon River lyrics at the bottom left](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/dd91f613bc76d03dad09f876213bf7aed5fd4431/pics/nft_reduced_MoonRiver.jpg)
+
+There is song text on the bottom left [[7]](https://genius.com/Andy-williams-moon-river-lyrics):
+
+```
+Moon river, wider than a mile
+I'm crossing you in style some day
+You dream maker, you heart breaker
+Wherever you're going, I'm going your way
+
+Two drifters, off to see the world
+There's such a lot of world to see
+We're after the same rainbow's end,
+Waiting 'round the bend
+My huckleberry friend
+Moon river and me
+
+Oh, you dream maker, you heart breaker
+Wherever you're going, I'm going your way.
+
+We're after that same rainbow's end
+Waiting round the bend
+My huckleberry friend
+Moon river and me
+```
 
 
 ## P.S.
@@ -217,7 +244,7 @@ Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com -
 [6] Kanye Quest 3030 - https://en.wikipedia.org/wiki/Kanye_Quest_3030
 [6'] Kanye Conspiracy Theory - https://twinfinite.net/pc/this-insane-kanye-quest-3030-conspiracy-theory-is-actually-real/
 
-
+[7] Moon River lyrics - https://genius.com/Andy-williams-moon-river-lyrics
 
 -------------------------------------------------------------------------
 ### Support
