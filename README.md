@@ -76,8 +76,24 @@ Below i will list some general interesting points of the puzzle i think should b
 
 ## Blue dots on the corner of the image
 
-There are blue dots on the corner of the image - groupped by three or one dot separated by some space. At first i guessed it is a Morse code where three dots denoting "-" and one dot is simply ".". I have composed MATLAB (octave) script to precisely decompose it form picture going clockwise starting from upper left corner (the code attached here in MATLAB folder - MorseExtract.m). But found out that in Morse it makes no sense. Instead, treating it as binary code i have found that there is simple messge repeated on each corner:
+There are blue dots on the corner of the image - groupped by three or one dot separated by some space. At first i guessed it is a Morse code where three dots denoting "-" and one dot is simply ".". I have composed MATLAB (octave) script to precisely decompose it form picture going clockwise starting from upper left corner (the code attached here in MATLAB folder - MorseExtract.m). But found out that in Morse it makes no sense:
+```
+    Morse code:
+"- ...- .- - - ..- .- - - - ..- .- - . - ...- - .. - - .- - - - - - ..- .- - . - ...- - .. - - .- - - - - - ..- - ..- - ..- .- - . - ..- ...- - ..- - .- "
 
+    Translation:
+"TVATTUATTTUATETVTITTATTTTTUATETVTITTATTTTTUTUTUATETUVTUTA"
+```
+
+Instead, treating it as binary code i have found that there is simple messge repeated on each corner:
+```
+    Binary code:
+01110100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01100110 01101001 01101110 0110010
+    Translation:
+"this is fin2" 
+```
+
+**The popular meme - "This is fine" OR meaning that it is actually important key - "fin 2".**
 
 ## P.S.
 
