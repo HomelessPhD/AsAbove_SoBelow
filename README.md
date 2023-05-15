@@ -107,6 +107,8 @@ Inspectin the picture more in order to find new binary stream or MORSE codes (to
 "THEMOONGODWENTTOMEETTHESUNGODITTHEMOONMODSDOMAITYOUSEETHECROSESTTHEOGAMEWASADOUT2MOTTHSATD1B4KMAPARTANDTHEPAIMEOEARNIGISSUMISMEYTHOUGHOTCEUOLLOWEDDYAUAMOUSKINMNOWWEAEBOTHPAWTSINAUROGENMELEEYOURLFITDTHESITEWHEAETHEMOONGODWENTANNHINTTHEKITGSISACONENAME"
 ```
 
+There are some words in this string and yet a large part of the string not forming an English word. It could be either some cypher or not a word (link to the site for example in base64 encoding).
+
 ## P.S.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
