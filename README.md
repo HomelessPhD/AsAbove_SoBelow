@@ -225,6 +225,18 @@ My huckleberry friend
 Moon river and me
 ```
 
+ ## Icebergs
+ ![Icebergs data]( https://github.com/HomelessPhD/AsAbove_SoBelow/blob/7bb4a4fce0b85469b71012b6da9ae1d56915d3fd/pics/nft_reduced_icebergs.jpg)
+    
+ There are three words (or strings) written and distorted on icebergs (red circles). Someone guessed two of three icebergs strings:
+ ```
+ ALBERTI and FINNEY
+ ```
+
+ Another interesting thing is strange noise between the icebergs - there is a 6-pixel strip between the icebergs (yellow circle) that looks
+ different from its surrounding: a strange noice like in least-bit steganography.
+ <TO DO: check that area for stego AND retrive the third iceberg string>
+
 
 ## P.S.
 
