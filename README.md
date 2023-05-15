@@ -136,6 +136,9 @@ THE SITE WHERE THE MOON GOD WENT AND HINT THE KINGS IS A CODE NAME
 ```
 
 ## Mermaids
+
+![mermaids](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/59935c839bd73cb65904afa5d3c8c0351dedab55/pics/nft_reduced_mermaids.jpg)
+
 There are 5 mermaids on the image with the same text coming from them: "it lives and reigns and conquers the world"
 
 According to ["The legend of Thessalonike"](https://en.wikipedia.org/wiki/Thessalonike_of_Macedon):
