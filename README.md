@@ -76,6 +76,8 @@ Below i will list some general interesting points of the puzzle i think should b
 
 ## Blue dots on the corner of the image
 
+![Blue Dots](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/2f8035f0ba68b3323abc1cf2d604a0f53020efe0/pics/nft_reduced_blueDots.jpg)
+
 There are blue dots on the corner of the image - groupped by three or one dot separated by some space. At first i guessed it is a Morse code where three dots denoting "-" and one dot is simply ".". I have composed MATLAB (octave) script to precisely decompose it form picture going clockwise starting from upper left corner (the code attached here in MATLAB folder - MorseExtract.m). But found out that in Morse it makes no sense:
 ```
     Morse code:
