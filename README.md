@@ -251,13 +251,13 @@ There are lots of references in the image that could have important role:
 
 2] A phoenix on the chess table
 
-3] [Cicada 3301] (https://en.wikipedia.org/wiki/Cicada_3301)
+3] [Cicada 3301](https://en.wikipedia.org/wiki/Cicada_3301)
 
 4] Some text - may be the white paper of bitcoin?
 
 5] Some distorted QR code - someone quessed "I think that's a nod to Coin Artist's puzzle."
 
-6] 12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX - one of the oldiest Bitcoin addresses with some BTCs on it untouched
+6] [12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX](https://www.blockchain.com/explorer/addresses/btc/12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX) - one of the oldiest Bitcoin addresses with some BTCs on it untouched
 
 7] A list of Bitcoin addresses?
 
