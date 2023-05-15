@@ -5,7 +5,8 @@ The author "ncodemus" left 0.0617 BTC and 0.061 ETH on ethereum address [[2]](ht
 
 The only key for the puzzle i have is the large (5701 x 5701 pixels) png image [[4]](https://ipfs.io/ipfs/QmUVA5tq1qrUyQc6mLXUfcL5euw4tm3CXrVky2Jj4AJmbu/nft.png). It is too large for me to upload it on github so i can only refer the place i have downloaded it.
 
-![AR puzzle #8 keys](https://ipfs.io/ipfs/QmUVA5tq1qrUyQc6mLXUfcL5euw4tm3CXrVky2Jj4AJmbu/nft.png)
+Attaching above the JPG formed from PNG image - BEWARE, in your work you should use the original PNG image cause the JPG have distortions.
+![AsAbove_SoBelow puzzle](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/59935c839bd73cb65904afa5d3c8c0351dedab55/pics/nft.jpg)
 
 
 
