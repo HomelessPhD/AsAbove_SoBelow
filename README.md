@@ -66,6 +66,19 @@ good luck to all, n.
 
 ```    
 
+## General ideas about this puzzle
+
+Well, this puzzle seems to be complicated: there are too much elements in it that overwhelming and fuzzing the solver (lots of numbers, letters, encodings, links to memes or cultural "objects" like refering to the Emerald Tablet etc.), the author stated that solution is a long jorney with multiple stepps that will require reusage of different puzzle elements, people tried to solve it over several years with no a sign of success (just remind here that there are multiple stepps and ppl struggled to reach the first one).
+
+Puzzle is an interesting competion for people like me who loves solving mystery things and yet it will drag too much time to be profitable for treasure hunters.
+
+Below i will list some general interesting points of the puzzle i think should be mentioned:
+
+## Blue dots on the corner of the image
+
+There are blue dots on the corner of the image - groupped by three or one dot separated by some space. At first i guessed it is a Morse code where three dots denoting "-" and one dot is simply ".". I have composed MATLAB (octave) script to precisely decompose it form picture going clockwise starting from upper left corner (the code attached here in MATLAB folder - MorseExtract.m). But found out that in Morse it makes no sense. Instead, treating it as binary code i have found that there is simple messge repeated on each corner:
+
+
 ## P.S.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
