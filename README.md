@@ -97,6 +97,8 @@ Instead, treating it as binary code i have found that there is simple messge rep
 
 ## Pixels stream on the right corner of the image - on width(x) = 5326 and height(y) from 375 to the (end-375): Morse code.
 
+![MORSE](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/7b180d08d7f674741845a2e84c1df7f1d6380485/pics/nft_reduced_morse_right.jpg)
+
 Inspectin the picture more in order to find new binary stream or MORSE codes (to utilize the approach i used earlier) i have found strange pixels at x = 5326. Using the MATLAB code (MorseExtract2.m - that is attached in MATLAB folder) i have found out it likely to be the Morse code:
 
 ```
