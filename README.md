@@ -237,6 +237,7 @@ Moon river and me
  different from its surrounding: a strange noice like in least-bit steganography.
     
  <TO DO: check that area for stego AND retrive the third iceberg string>
+  .   
 
 
 ## P.S.
