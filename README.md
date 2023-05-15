@@ -164,9 +164,9 @@ Another assumption is that originial question could be important: "Is king Alexa
 
 ## Stars
 
-There are 11 constellations on the upper part of the image - most have a digit in the main star, except the lowest that has "B" letter
-
 ![stars](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/5a3a4dfce6264f839353f16c4dfe429b02df9aa6/pics/nft_reduced_stars.jpg)
+
+There are 11 constellations on the upper part of the image - most have a digit in the main star, except the lowest that has "B" letter
 
 ## Kanye Quest 3030 reference
 ![Kanye Quest 3030 reference](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/880ab26816c9d84b25ae56b25ac81b5a240844ee/pics/nft_reduced_KannyQuest3030.jpg)
