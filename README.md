@@ -109,6 +109,19 @@ Inspectin the picture more in order to find new binary stream or MORSE codes (to
 
 There are some words in this string and yet a large part of the string not forming an English word. It could be either some cypher or not a word (link to the site for example in base64 encoding).
 
+```
+THE MOON GOD WENT TO MEET THE SUN GOD 
+IT THE MOON MODSDOMAIT
+YOU SEE THE CROSES 
+TTHEOGAMEWASADOUT2MOTTHSATD1B4K
+MAP ART AND THE PAIMEOEARNIG
+IS SUM IS ME 
+YTHOUGHOTCEUOLLOWEDDYAUAMOUSKINMNOWWEAEBOTHPAWTSINAUROGENMELEEYOURLFITD
+THE SITE WHEAE
+THE MOON GOD WENT 
+ANN HINT THE KITGSISACONE NAME
+```
+
 ## P.S.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
