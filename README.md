@@ -158,6 +158,13 @@ could be part of the private key, or this phrase talking about bitcoin?!
 Another assumption is that originial question could be important: "Is king Alexander alive?".
 "Alexander" could be a key for some else puzzle step.
 
+# Stars
+
+There are 11 constellations on the upper part of the image - most have a digit in the main star, except the lowest that has "B" letter
+
+![stars](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/5a3a4dfce6264f839353f16c4dfe429b02df9aa6/pics/nft_reduced_stars.jpg)
+
+
 ## P.S.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
