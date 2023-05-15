@@ -168,6 +168,20 @@ There are 11 constellations on the upper part of the image - most have a digit i
 
 ![stars](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/5a3a4dfce6264f839353f16c4dfe429b02df9aa6/pics/nft_reduced_stars.jpg)
 
+# Kanye Quest 3030 reference
+![Kanye Quest 3030 reference](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/880ab26816c9d84b25ae56b25ac81b5a240844ee/pics/nft_reduced_KannyQuest3030.jpg)
+
+The text faded by clouds is the reference to "Kanye Quest 3030" video game [[6]](https://en.wikipedia.org/wiki/Kanye_Quest_3030), [[6']](https://twinfinite.net/pc/this-insane-kanye-quest-3030-conspiracy-theory-is-actually-real/):
+
+```
+....
+You have proven your worth once again. You have ascended. However, further ascension is always possible. If you do not wish to ascend further, your journey ends here, so please close this program by pressing ALT-F4 or selecting the NO option above. By selecting the YES option, you agree to participate further and you grant us permission to interact with your possessions. Would you like to participate?
+
+If you choose NO, you get sent to the title screen. If you choose YES, it shows this:
+
+Over the following two week time period, we will interact with you and your possessions in several ways. Keep an eye out, as some of these ways may be subtle. Others may not be. We may attempt to contact you directly. If we do this, we will attempt to notify you of our prescence using a key-word. If you still consent to participation, please select the YES option above. Do you wish to participate?
+....
+```
 
 ## P.S.
 
@@ -188,8 +202,8 @@ Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com -
 
 [5] The legend of Thessalonike - https://en.wikipedia.org/wiki/Thessalonike_of_Macedon
 
-
-
+[6] Kanye Quest 3030 - https://en.wikipedia.org/wiki/Kanye_Quest_3030
+[6'] Kanye Conspiracy Theory - https://twinfinite.net/pc/this-insane-kanye-quest-3030-conspiracy-theory-is-actually-real/
 
 
 
