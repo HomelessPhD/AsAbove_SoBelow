@@ -137,7 +137,7 @@ THE SITE WHERE THE MOON GOD WENT AND HINT THE KINGS IS A CODE NAME
 
 ## Mermaids
 
-![mermaids](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/59935c839bd73cb65904afa5d3c8c0351dedab55/pics/nft_reduced_mermaids.jpg)
+![mermaids](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/95d6718b637c00c185d6afe865832c230917e5ed/pics/nft_reduced_mermaids.jpg)
 
 There are 5 mermaids on the image with the same text coming from them: "it lives and reigns and conquers the world"
 
