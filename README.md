@@ -51,7 +51,8 @@ good luck to all, n.
     Then other guy reasked: "Private key or seed phrase ?". 
         And author responded in interesting manner: "... yes. ;-)".
     
-    3] There is an nft that will tell you the starting point... https://opensea.io/assets/0x9b54e03cb137e4157029e915fa00d76830251072/3
+    3] There is an nft that will tell you the starting point... 
+    https://opensea.io/assets/0x9b54e03cb137e4157029e915fa00d76830251072/3
 
     4] It is now worth over US$4k. and as far as I know, no-one has even found step one.
     Anyone who has found step one, mail me at ncodemus at ncodemus dot com and let me 
