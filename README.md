@@ -241,6 +241,29 @@ Moon river and me
  (TO DO: check that area for stego AND retrive the third iceberg string)
 
 
+## Some UnGroupped references
+![Icebergs data]( https://github.com/HomelessPhD/AsAbove_SoBelow/blob/c7fdbe8ba3ea744d8303267c9d4772bff3975224/pics/nft_reduced_someReferences.jpg )
+
+There are lots of references in the image that could have important role:
+
+
+1] [310 Bitcoin Challenge](https://www.reddit.com/r/Bitcoin/comments/9kq7it/introducing_the_310_btc_bitcoin_challenge/)
+
+2] A phoenix on the chess table
+
+3] [Cicada 3301] (https://en.wikipedia.org/wiki/Cicada_3301)
+
+4] Some text - may be the white paper of bitcoin?
+
+5] Some distorted QR code - someone quessed "I think that's a nod to Coin Artist's puzzle."
+
+6] 12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX - one of the oldiest Bitcoin addresses with some BTCs on it untouched
+
+7] A list of Bitcoin addresses?
+
+8] Some text and program code (in c?) - may be from BTC white paper
+
+
 ## P.S.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
