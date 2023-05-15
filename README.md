@@ -1,7 +1,7 @@
 # A5 A80V3, 50 83L0W - sunken treasure
 
 I have found pretty interesting treasure hunt (crypto puzzle) on reddit [[1]]( https://www.reddit.com/r/bitcoinpuzzles/comments/p9dhjv/currently_over_us3100_in_this_puzzle/). Called "As above, so below". 
-The author "ncodemus" left **0.0617 BTC and 0.061 ETH** (~ 1800$ ) on ethereum address [[0xf91A8DcE13AD25E2c256235852F0E7220De2f3fe]](https://etherscan.io/address/0xf91A8DcE13AD25E2c256235852F0E7220De2f3fe) for the lucky solver of his puzzle. He is also expected to sell few NFTs [[3]](https://opensea.io/assets/ethereum/0x9b54e03cb137e4157029e915fa00d76830251072/3) with first hint/clue for his puzzle on OpenSea with 0% author taxation meaning all the money from sold NFTs planned to be gathered on prize address. Probably a few people recevied that NFT buy i have no information about that. 
+The author "ncodemus" left **0.0617 BTC and 0.061 ETH** (~ 1800$ ) on ethereum address [0xf91A8DcE13AD25E2c256235852F0E7220De2f3fe](https://etherscan.io/address/0xf91A8DcE13AD25E2c256235852F0E7220De2f3fe) for the lucky solver of his puzzle. He is also expected to sell few NFTs [[3]](https://opensea.io/assets/ethereum/0x9b54e03cb137e4157029e915fa00d76830251072/3) with first hint/clue for his puzzle on OpenSea with 0% author taxation meaning all the money from sold NFTs planned to be gathered on prize address. Probably a few people recevied that NFT buy i have no information about that. 
 
 **The only key for the puzzle i have is the large (5701 x 5701 pixels) png image** [[4]](https://ipfs.io/ipfs/QmUVA5tq1qrUyQc6mLXUfcL5euw4tm3CXrVky2Jj4AJmbu/nft.png). It is too large for me to upload it on github so i can only refer the place i have downloaded it.
 
