@@ -135,6 +135,22 @@ THOUGH ONCE U ALLOWED NYAUAMOU SKIN MTOWWEAEDOTHPAWTS IT A BROKEN MELEE YOU ALFI
 THE SITE WHERE THE MOON GOD WENT AND HINT THE KINGS IS A CODE NAME
 ```
 
+## Mermaids
+There are 5 mermaids on the image with the same text coming from them: "it lives and reigns and conquers the world"
+
+According to ["The legend of Thessalonike"](https://en.wikipedia.org/wiki/Thessalonike_of_Macedon):
+```...
+To the sailors who encounter her, she always poses the same question: "Is king Alexander alive?" 
+(Greek: Ζει ο βασιλιάς Αλέξανδρος;), to which the correct answer would be "He lives and reigns and 
+conquers the world" (Greek: Ζει και βασιλεύει, και τον κόσμο κυριεύει!). Given this answer, 
+she would allow the ship and her crew to sail safely away in calm seas. Any other answer would 
+transform her into the raging Gorgon, bent on sending the ship and every sailor onboard to the 
+bottom of the sea."
+```
+
+Here we could assume that original "He" was changed to "It" to hint something. For example, the "it" or "he"
+could be part of the private key, or this phrase talking about bitcoin?!
+
 ## P.S.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
