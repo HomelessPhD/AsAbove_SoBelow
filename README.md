@@ -113,7 +113,7 @@ There are some words in this string and yet a large part of the string not formi
 THE MOON GOD WENT TO MEET THE SUN GOD 
 IT THE MOON MODSDOMAIT
 YOU SEE THE CROSES 
-TTHEOGAMEWASADOUT2MOTTHSATD1B4K
+T THE O GAME WAS ADOUT 2 MOTTHSATD1B4K
 MAP ART AND THE PAIMEOEARNIG
 IS SUM IS ME 
 YTHOUGHOTCEUOLLOWEDDYAUAMOUSKINMNOWWEAEBOTHPAWTSINAUROGENMELEEYOURLFITD
@@ -121,6 +121,8 @@ THE SITE WHEAE
 THE MOON GOD WENT 
 ANN HINT THE KITGSISACONE NAME
 ```
+
+Some letters in this message could be messed - require to swap them like the word "ADOUT" could require to swap the letter "D" to "B" to form the word "ABOUT", and this "B" could be found in "MOTTHSATD1B4K" or "YTHOUGHOTCEUOLLOWEDDYAUAMOUSKINMNOWWEAEBOTHPAWTSINAUROGENMELEEYOURLFITD" words (or strings). Thats just an assumption
 
 ## P.S.
 
