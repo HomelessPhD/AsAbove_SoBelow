@@ -199,6 +199,10 @@ B) Leo
 
 (TO DO: get the names of each constellation AND the stars marked on the image by digit or letter)
 
+**ALSO** should be noticed - the image as whole, as far as i understood, painted the view of the MOON form the earth perspective 
+while the moon hide the earth in its shadow (yeah - strange that moon is brigth cause in that case it shoulb be dark) - SOLAR ECLIPSE ?!. 
+The constellation geometry and orientation could denote something including the date (or day of the year).
+
 ## Kanye Quest 3030 reference
 ![Kanye Quest 3030 reference](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/880ab26816c9d84b25ae56b25ac81b5a240844ee/pics/nft_reduced_KannyQuest3030.jpg)
 
