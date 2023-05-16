@@ -140,6 +140,16 @@ THE SITE WHERE THE MOON GOD WENT AND HINT THE KINGS IS A CODE NAME
 ```
 (TO DO: try to re-arrange letters in the message to get sentences or at least make all words sane)
 
+Some reshape adjustment proposed by AI (chat GPT) based on my work:
+```
+THE MOON GOD WENT TO MEET THE SUN GOD IN THE MOON GOD'S DOMAIN.
+
+YOU SEE THE CROSSES. THE GAME WAS ABOUT 2 MONTHS. TOOK OUT 4 MAPS AND THE PAINTING ART.
+IS IT MY SUM? IS ME? THOUGH ONCE YOU ALLOWED MAYHEM, IT'S A BROKEN MELEE. YOU ALIFT.
+
+THE SITE WHERE THE MOON GOD WENT AND HINTED THE KINGS IS A CODE NAME
+```
+
 
 ## Mermaids
 
