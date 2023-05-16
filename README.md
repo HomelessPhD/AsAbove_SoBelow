@@ -112,6 +112,7 @@ Inspectin the picture more in order to find new binary stream or MORSE codes (to
 ```
 
 There are some words in this string and yet a large part of the string not forming an English word. It could be either some cypher or not a word (link to the site for example in base64 encoding).
+(it could be so called [NULL cypher](https://en.wikipedia.org/wiki/Null_cipher) )
 
 ```
 THE MOON GOD WENT TO MEET THE SUN GOD 
