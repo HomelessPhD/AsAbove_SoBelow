@@ -239,7 +239,15 @@ That could be split into words as following
 
 or
 
-Selene says lm just gazlng at another easter egg do you ou really thlnk lts gonna be that easy
+Selene says im just gazing at another easter egg do you ou really think its gonna be that easy
+```
+
+The next digit to letter transformation used (could be the key)
+```
+5 3 1 3 5 5 1 5 9 2 1 9 0 3 3 5 3 3 9 9 0 0 0 3 1 1 1 1 5 9 0 3 3 5
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+S e l e s s i s g z i g o e e s e e g g o o o e l l i i s g o e e s 
+
 ```
 
 (TO DO: get each letter in order: from top to bottom, from left to rigth )
