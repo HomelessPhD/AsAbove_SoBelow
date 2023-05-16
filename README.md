@@ -184,12 +184,12 @@ I got the next list of constellations (rely on my poor astronomy knowledge and i
 
 ```
 0) Pisces 
-1) Aquarius (??)
-2) Aries (??)
-3) Taurus (or the Bull)
-4) Libra
-5) Capricornus
-6) Virgo,                 Star:
+1) Aquarius (??),         Star: 
+2) Aries (??),            Star: Hamal    (α Arietis)
+3) Taurus (or the Bull),  Star: Lambda Tauri ( λ Taur)
+4) Libra,                 Star: Zubeneschamali (β Librae)
+5) Capricornus,           Star: Nashira  (γ Capricorni) OR Iota Capricorni ?
+6) Virgo,                 Star: Zavijah  (β Virginis)
 7) Sagittarius,           Star: Ascella  (ζ Sagittarii)
 8) Gemini (or Twins),     Star: Pollux   (β Gem)
 9) Cancer (or the Crab),  Star: Acubens  (α Cancri)
