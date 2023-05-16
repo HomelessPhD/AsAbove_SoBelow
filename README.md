@@ -168,7 +168,9 @@ Another assumption is that originial question could be important: "Is king Alexa
 
 ![stars](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/5a3a4dfce6264f839353f16c4dfe429b02df9aa6/pics/nft_reduced_stars.jpg)
 
-There are 11 constellations on the upper part of the image - most have a digit in the main star, except the lowest that has "B" letter
+There are 11 constellations on the upper part of the image - most have a digit in the main star, except the lowest that has "B" letter.
+
+I got the next list of constellations (rely on my poor astronomy knowledge and internet sources [[8]](https://stardate.org/nightsky/constellations), [[8']](https://starwalk.space/en/news/zodiac-constellations)
 
 ```
 0) Pisces 
@@ -305,6 +307,10 @@ Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com -
 [6'] Kanye Conspiracy Theory - https://twinfinite.net/pc/this-insane-kanye-quest-3030-conspiracy-theory-is-actually-real/
 
 [7] Moon River lyrics - https://genius.com/Andy-williams-moon-river-lyrics
+
+[8] Constellations 1 - https://stardate.org/nightsky/constellations
+
+[8'] Constellations 2 - https://starwalk.space/en/news/zodiac-constellations
 
 -------------------------------------------------------------------------
 ### Support
