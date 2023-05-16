@@ -7,16 +7,16 @@ clc;
 %% Load and pre-process the data
 [img, map, alpha] =imread('nft.png');
 string_temp = medfilt1(sqrt(sum(img(3,1:end,:).^2,3)),10)>10;
-string{1} = string_temp(find(string_temp == 1, 1, 'first'):find(string_temp == 1, 1, 'last'));
+string{1} = string_temp(find(string_temp == 1, 1, 'first'):(find(string_temp == 1, 1, 'last')+1));
 
 string_temp = medfilt1(sqrt(sum(img(1:end,end-4,:).^2,3)),10)>10;
-string{2} = string_temp(find(string_temp==1, 1, 'first'):find(string_temp==1, 1, 'last'));
+string{2} = string_temp(find(string_temp==1, 1, 'first'):(find(string_temp == 1, 1, 'last')+1));
 
-string_temp = medfilt1(sqrt(sum(img(end-4,1:end,:).^2,3)),10)>10;
-string{3} = flip(string_temp(find(string_temp==1, 1, 'first'):find(string_temp==1, 1, 'last')));
+string_temp = flip(medfilt1(sqrt(sum(img(end-4,1:end,:).^2,3)),10)>10);
+string{3} = string_temp(find(string_temp == 1, 1, 'first'):(find(string_temp == 1, 1, 'last')+1));
 
-string_temp = medfilt1(sqrt(sum(img(1:end,4,:).^2,3)),10)>10;
-string{4} = flip(string_temp(find(string_temp==1, 1, 'first'):find(string_temp==1, 1, 'last')));
+string_temp = flip(medfilt1(sqrt(sum(img(1:end,4,:).^2,3)),10)>10);
+string{4} = string_temp(find(string_temp == 1, 1, 'first'):(find(string_temp == 1, 1, 'last')+1));
 
 %% Treat the image slice pre-processed earlier as Morse code OR bit-stream
 for Is = 1:length(string)
