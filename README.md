@@ -229,6 +229,19 @@ consent to participation, please select the YES option above. Do you wish to par
 
 There are green characters (letters and numbers) on the bitcoin logo.
 
+```
+531en35ay51mju5t9a21n9atan0th3r3a5t3r399d0y0u0ur3a11yth1nk1t590nnab3that3a5y
+```
+
+That could be split into words as following
+```
+531en3 5ay5 1m ju5t 9a21n9 at an0th3r 3a5t3r 399 d0 y0u 0u r3a11y th1nk 1t5 90nna b3 that 3a5y
+
+or
+
+Selene says lm just gazlng at another easter egg do you ou really thlnk lts gonna be that easy
+```
+
 (TO DO: get each letter in order: from top to bottom, from left to rigth )
 
 ## Moon River lyrics
