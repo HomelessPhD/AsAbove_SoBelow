@@ -184,7 +184,7 @@ I got the next list of constellations (rely on my poor astronomy knowledge and i
 
 ```
 0) Pisces 
-1) ??
+1) Aquarius (??)
 2) Aries (??)
 3) Taurus (or the Bull)
 4) Libra
