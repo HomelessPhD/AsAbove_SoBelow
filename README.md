@@ -183,8 +183,8 @@ There are 11 constellations on the upper part of the image - most have a digit i
 I got the next list of constellations (rely on my poor astronomy knowledge and internet sources [[8]](https://stardate.org/nightsky/constellations), [[8']](https://starwalk.space/en/news/zodiac-constellations)
 
 ```
-0) Pisces 
-1) Aquarius (??),         Star: 
+0) Pisces,                Star: Tau Piscium (τ Piscium)
+1) Aquarius (??),         Star: Iota Aquarii (?)
 2) Aries (??),            Star: Hamal    (α Arietis)
 3) Taurus (or the Bull),  Star: Lambda Tauri ( λ Taur)
 4) Libra,                 Star: Zubeneschamali (β Librae)
