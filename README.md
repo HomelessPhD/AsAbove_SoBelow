@@ -297,6 +297,18 @@ Moon river and me
  (TO DO: check that area for stego AND retrive the third iceberg string)
 
 
+## Edge detection - reveal some interesting things
+![Edge detection]( https://github.com/HomelessPhD/AsAbove_SoBelow/blob/4875525971bff7b8a440a6a61a0634d958ac3a05/pics/nft_edges.jpg )
+
+Applying the edge detection filter some elements noticed earlier became more visible.
+
+The strip of the pixels between icebergs that i thought been a bit-stego now seems something more abstract, try to decipher what is written there
+![Iceberg strip]( https://github.com/HomelessPhD/AsAbove_SoBelow/blob/d130b73bd548b852fffc185602b491963f0f81ca/pics/nft_edges_iceberg_strip.png )
+
+(TO DO: transcript the strip)
+
+
+
 ## Some UnGroupped references
 ![Icebergs data]( https://github.com/HomelessPhD/AsAbove_SoBelow/blob/c7fdbe8ba3ea744d8303267c9d4772bff3975224/pics/nft_reduced_someReferences.jpg )
 
