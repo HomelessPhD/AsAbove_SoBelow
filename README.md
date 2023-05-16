@@ -297,7 +297,7 @@ Moon river and me
  (TO DO: check that area for stego AND retrive the third iceberg string)
 
 
-## Edge detection - reveal some interesting things
+## Edge detection and text sharpening - reveal some interesting things
 ![Edge detection]( https://github.com/HomelessPhD/AsAbove_SoBelow/blob/4875525971bff7b8a440a6a61a0634d958ac3a05/pics/nft_edges.jpg )
 
 Applying the edge detection filter some elements noticed earlier became more visible.
@@ -306,6 +306,11 @@ The strip of the pixels between icebergs that i thought been a bit-stego now see
 ![Iceberg strip]( https://github.com/HomelessPhD/AsAbove_SoBelow/blob/d130b73bd548b852fffc185602b491963f0f81ca/pics/nft_edges_iceberg_strip.png )
 
 (TO DO: transcript the strip)
+
+Also, removing the noise helps to read the text in the image. Below is the JPG formed by noise reduction filter. Text on the moon and in the water
+now clearly readable 
+![Edge detection]( https://github.com/HomelessPhD/AsAbove_SoBelow/blob/1af8d80a081fc210bfc6445dfed3a903f1fe9ba2/pics/nft_filtered_text.jpg)
+
 
 There is a grid over whole image - lines has intersection that could have some description in that MORSE message (about crosses)
 
