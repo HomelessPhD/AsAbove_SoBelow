@@ -90,12 +90,12 @@ There are blue dots on the corner of the image - groupped by three or one dot se
 Instead, treating it as binary code i have found that there is simple messge repeated on each corner:
 ```
     Binary code:
-01110100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01100110 01101001 01101110 0110010
+01110100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01100110 01101001 01101110 01100101
     Translation:
-"this is fin2" 
+"this is fine" 
 ```
 
-**The popular meme - "This is fine" OR meaning that it is actually important key - "fin 2".**
+**The popular meme - "This is fine" OR meaning that it is actually important key - "fine".**
 
 ## Pixels stream on the right corner of the image - on width(x) = 5326 and height(y) from 375 to the (end-375): Morse code.
 
