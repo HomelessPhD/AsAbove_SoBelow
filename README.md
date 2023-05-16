@@ -189,11 +189,11 @@ I got the next list of constellations (rely on my poor astronomy knowledge and i
 3) Taurus (or the Bull)
 4) Libra
 5) Capricornus
-6) Virgo
-7) Sagittarius 
-8) Gemini (or Twins)
-9) Cancer or the Crab
-B) Leo
+6) Virgo,                 Star:
+7) Sagittarius,           Star: Ascella  (ζ Sagittarii)
+8) Gemini (or Twins),     Star: Pollux   (β Gem)
+9) Cancer (or the Crab),  Star: Acubens  (α Cancri)
+B) Leo,                   Star: Denebola (β Leonis)
 
 ```
 
