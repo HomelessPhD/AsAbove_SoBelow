@@ -307,6 +307,7 @@ The strip of the pixels between icebergs that i thought been a bit-stego now see
 
 (TO DO: transcript the strip)
 
+There is a grid over whole image - lines has intersection that could have some description in that MORSE message (about crosses)
 
 
 ## Some UnGroupped references
