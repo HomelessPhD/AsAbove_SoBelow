@@ -170,7 +170,22 @@ Another assumption is that originial question could be important: "Is king Alexa
 
 There are 11 constellations on the upper part of the image - most have a digit in the main star, except the lowest that has "B" letter
 
-(TO DO: get the names of each constellation)
+```
+0) Pisces 
+1) ??
+2) Aries (??)
+3) Taurus (or the Bull)
+4) Libra
+5) Capricornus
+6) Virgo
+7) Sagittarius 
+8) Gemini (or Twins)
+9) Cancer or the Crab
+B) Leo
+
+```
+
+(TO DO: get the names of each constellation AND the stars marked on the image by digit or letter)
 
 ## Kanye Quest 3030 reference
 ![Kanye Quest 3030 reference](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/880ab26816c9d84b25ae56b25ac81b5a240844ee/pics/nft_reduced_KannyQuest3030.jpg)
