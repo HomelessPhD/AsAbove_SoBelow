@@ -251,7 +251,6 @@ S e l e s s i s g z i g o e e s e e g g o o o e l l i i s g o e e s
 
 ```
 
-(TO DO: get each letter in order: from top to bottom, from left to rigth )
 
 ## Moon River lyrics
 ![Moon River lyrics at the bottom left](https://github.com/HomelessPhD/AsAbove_SoBelow/blob/dd91f613bc76d03dad09f876213bf7aed5fd4431/pics/nft_reduced_MoonRiver.jpg)
